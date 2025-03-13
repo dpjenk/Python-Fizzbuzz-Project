@@ -1,3 +1,6 @@
+"""
+This simple python project demonstrates my ability to create a function, call a function, and utilize looping and conditionals.
+"""
 def fizzbuzz(n):    # defines the function
     """
     Prints numbers from 1 to n, replacing multiples of 3 with "Fizz", 
